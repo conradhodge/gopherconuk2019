@@ -115,7 +115,7 @@ https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
 
 ## Improving Dependencies for Everyone (Aaron Schlesinger @arschles)
 
-This was a talk about the Athens project, which is a proxy for Go modules. We could run an instance of Athens at EMIS tha would allow us to download Go modules when sites such as GitHub go offline. You could even run a local instance to allow you to download Go modules when working offline.
+This was a talk about the Athens project, which is a proxy for Go modules. We could run an instance of Athens at our organisation that would allow us to download Go modules when sites such as GitHub go offline. You could even run a local instance to allow you to download Go modules when working offline.
 
 https://docs.gomods.io/
 
