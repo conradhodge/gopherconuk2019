@@ -91,7 +91,7 @@ https://github.com/a-h/nvdnotifier
 
 ### Disable caching and sniffing
 
-![Disable caching and sniffing](./caching_sniffing.jpg]
+![Disable caching and sniffing](./caching_sniffing.jpg)
 
 These are settings that are often missed, that can be disabled for extra security.
 
