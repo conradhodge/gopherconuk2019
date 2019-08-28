@@ -133,7 +133,7 @@ This talk was about state machines utilising mutable state and immutable events.
 
 Corver mentioned a lot of interesting Go libraries.
 
-## Shift
+### Shift
 
 ![Shift](./shift.jpg)
 
@@ -141,7 +141,7 @@ Shift provides the SQL persistence layer for a simple "finite state machine" dom
 
 https://github.com/luno/shift
 
-## Reflex
+### Reflex
 
 ![Streams](./streams.jpg)
 ![Reflex](./reflex.jpg)
@@ -150,10 +150,18 @@ Reflex provides an API for building distributed event notification streams.
 
 https://github.com/luno/reflex
 
-## Tempting Fate
+### Tempting Fate
 
 ![Tempting Fate](./tempting_fate.jpg)
 
 This is a great library that allows you to "design for failure"! It allows you introduce random errors into your Go source code, thus testing whether the code can correctly recover from such errors. Similar to the Netflix [Chaos Monkey](https://netflix.github.io/chaosmonkey/).
 
 https://github.com/luno/fate
+
+## Gio: Cross Platform GUI Programming for Mobile, Desktop, WebAssembly (Elias Naur @elias_naur)
+
+This talk was about the Gio framework, which allows you to write GUI applications that can be compiled to run on Windows, macOS, Linux, iOS, Android and browsers (via Webassembly).
+
+https://git.sr.ht/~eliasnaur/gio
+
+There is a video of this talk that Elias gave at GopherCon US 2019 - https://www.youtube.com/watch?v=9D6eWP4peYM
