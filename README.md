@@ -123,7 +123,10 @@ Link to the demo Aaron showed - https://github.com/aarons-talks/2019-08-23-Gophe
 
 ## Dr. Jekyll and Mr. Hyde: Embracing the Dual Nature of State (Corver Roos)
 
-This talk was about state machines utilising mutable state and immutable events. This interested me as I have written a finate state machine in PHP for the CRM! The state that is mutable, i.e. it can be changed, and imutable events, i.e. the event is fixed, are records of how the state was changed.
+This talk was about state machines utilising mutable state and immutable events. This interested me as I have written a finite state machine in PHP for SugarCRM! 
+
+- state is mutable, i.e. it can be changed
+- events are records of how the state was changed and are imutable, i.e. the event is fixed
 
 ![Immutable events](./immutable_events.jpg)
 ![Dual nature of state](./dual_nature_of_state.jpg)
